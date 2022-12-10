@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+    color: rgb(230, 129, 188);
+}
+
+.baslik{
+    text-align: center;
+}
+
+h1{
+    color: rgb(162, 95, 224);
+}
+
+li{
+    list-style-position: inside;
+    color: rgb(56, 9, 9);
+ }
+
+ p{
+    color: rgb(56, 9, 9);
+ }
+
+
+ a{
+    color: palevioletred;
+ }
